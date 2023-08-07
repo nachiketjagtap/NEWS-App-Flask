@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEWS App</title>
+</head>
+<body>
+    <img src="data:image/jpeg;base64,{{ photo }}" alt="News Image" width="350" height="250">
+    <h2>{{ heading }}</h2>
+    <p>{{ details }}</p>
+    <a href="{{ url }}" target="_blank">Read More</a>
+    <br>
+    <a href="/">Home</a>
+    <a href="/{{ current_index + 1 }}">Next</a>
+    {% if current_index != 0 %}
+    <a href="/{{ current_index - 1 }}">Prev</a>
+    {% endif %}
+</body>
+</html>
