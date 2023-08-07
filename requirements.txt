@@ -11,7 +11,7 @@ Cython==3.0.0
 filelock==3.12.2
 Flask==2.2.5
 fsspec==2023.1.0
-gensim==4.3.1
+gensim==4.2.0
 gunicorn==21.2.0
 huggingface-hub==0.16.4
 idna==3.4
