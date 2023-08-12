@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="430520d0-2183-4c40-8584-5c0bad8198fa" name="Changes" comment="Added requirements.txt for deployment purpose..!" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2TearbjVkg5skpBQluZRGXS55EQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="430520d0-2183-4c40-8584-5c0bad8198fa" name="Changes" comment="" />
+      <created>1691406199969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691406199969</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First Commit..!">
+      <option name="closed" value="true" />
+      <created>1691406408307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691406408307</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added requirements.txt for deployment purpose..!">
+      <option name="closed" value="true" />
+      <created>1691407026372</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691407026372</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added requirements.txt for deployment purpose..!">
+      <option name="closed" value="true" />
+      <created>1691407179722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691407179722</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added requirements.txt for deployment purpose..!">
+      <option name="closed" value="true" />
+      <created>1691407254373</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691407254373</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added requirements.txt for deployment purpose..!">
+      <option name="closed" value="true" />
+      <created>1691407314810</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691407314811</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added requirements.txt for deployment purpose..!">
+      <option name="closed" value="true" />
+      <created>1691407434431</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691407434431</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added requirements.txt for deployment purpose..!">
+      <option name="closed" value="true" />
+      <created>1691408132711</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691408132711</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added requirements.txt for deployment purpose..!">
+      <option name="closed" value="true" />
+      <created>1691408222795</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691408222795</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added requirements.txt for deployment purpose..!">
+      <option name="closed" value="true" />
+      <created>1691408299168</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691408299168</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added requirements.txt for deployment purpose..!">
+      <option name="closed" value="true" />
+      <created>1691408386253</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1691408386253</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added requirements.txt for deployment purpose..!">
+      <option name="closed" value="true" />
+      <created>1691408476798</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1691408476799</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added requirements.txt for deployment purpose..!">
+      <option name="closed" value="true" />
+      <created>1691408637551</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691408637551</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added requirements.txt for deployment purpose..!">
+      <option name="closed" value="true" />
+      <created>1691408750350</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1691408750350</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit..!" />
+    <MESSAGE value="Added requirements.txt for deployment purpose..!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added requirements.txt for deployment purpose..!" />
+  </component>
+</project>
