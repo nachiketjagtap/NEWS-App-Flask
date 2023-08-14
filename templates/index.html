@@ -10,6 +10,9 @@
             font-size: 16px;
             margin: 0;
         }
+        .links{
+            align-items: center;
+        }
         .content {
             display: flex;
             flex-direction: column;
@@ -55,6 +58,16 @@
         .button:hover {
             background-color: #0047A1;
         }
+        .footer {
+        text-align: center;
+        position: relative; /* Add this line */
+        margin-top: 50px; /* Add margin to create space between footer and links */
+    }
+
+    .links {
+        text-align: center;
+        margin-top: 10px;
+    }
     </style>
 </head>
 <body>
@@ -71,6 +84,14 @@
             <a href="/{{ current_index + 1 }}" class="button">Next</a>
            
         </div>
+        <footer>
+            <p>Developed By Nachiket N Jagtap</p>
+           <div class="links">
+            <a href="https://github.com/nachiketjagtap">Github</a>
+            <a href="https://www.linkedin.com/in/nachiket-jagtap-a31457206/">Linkedin</a>
+            </div>
+
+        </footer>
     </div>
 </body>
 </html>
